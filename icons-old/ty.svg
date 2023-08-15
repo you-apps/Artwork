@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="TriviaYou.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.681481"
+     inkscape:cx="24.208528"
+     inkscape:cy="31.502629"
+     inkscape:window-width="1267"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <rect
+     x="20.969189"
+     y="11.876547"
+     width="6.0617261"
+     height="24.246904"
+     rx="3.030863"
+     fill="url(#paint0_linear_619_2)"
+     id="rect4"
+     style="fill:url(#paint0_linear_619_2);stroke-width:0.0484938" />
+  <path
+     d="m 12.48272,12.427632 c 0,-0.30435 0.246736,-0.551085 0.551085,-0.551085 v 0 c 3.043423,0 5.51064,2.46722 5.51064,5.510643 v 18.185178 c 0,0.304347 -0.246735,0.551085 -0.551081,0.551085 v 0 c -3.043424,0 -5.510644,-2.46722 -5.510644,-5.510644 z"
+     fill="#ffe5dd"
+     id="path6"
+     style="stroke-width:0.0484938" />
+  <path
+     d="m 29.455555,17.38719 c 0,-3.043423 2.46722,-5.510643 5.510643,-5.510643 v 0 c 0.304346,0 0.551082,0.246735 0.551082,0.551085 v 18.185177 c 0,3.043424 -2.46722,5.510644 -5.510641,5.510644 v 0 c -0.30435,0 -0.551084,-0.246738 -0.551084,-0.551085 z"
+     fill="#ffe5dd"
+     id="path8"
+     style="stroke-width:0.0484938" />
+  <defs
+     id="defs15">
+    <linearGradient
+       id="paint0_linear_619_2"
+       x1="477.052"
+       y1="290"
+       x2="712.34998"
+       y2="348.82401"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.04849381,0,0,0.04849381,-2.1624111,-2.1866582)">
+      <stop
+         stop-color="#D88870"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="#AD3E1C"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+</svg>

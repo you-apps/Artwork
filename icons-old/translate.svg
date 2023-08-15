@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   fill="currentColor"
+   class="bi bi-translate"
+   version="1.1"
+   id="svg185"
+   sodipodi:docname="translate-svgrepo-com.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs189" />
+  <sodipodi:namedview
+     id="namedview187"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="51.5625"
+     inkscape:cx="3.9854545"
+     inkscape:cy="6.2157576"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg185" />
+  <path
+     d="M 6.0769457,7.284212 5.8348246,8 H 5.2169981 L 6.253388,5.2169981 H 6.9680629 L 8,8 H 7.3504474 L 7.1083262,7.284212 Z M 6.9864307,6.8745541 6.6084991,5.7491081 H 6.5812257 L 6.203294,6.8745541 h 0.7836933 z"
+     id="path181"
+     style="stroke-width:0.999999" />
+  <path
+     d="M 3.547197,4.6603978 A 1.1132008,1.1132008 0 0 1 4.6603978,3.547197 h 3.8962026 a 1.1132008,1.1132008 0 0 1 1.1132008,1.1132008 v 1.6698011 h 1.6698008 a 1.1132008,1.1132008 0 0 1 1.113201,1.1132008 v 3.8962023 a 1.1132008,1.1132008 0 0 1 -1.113201,1.113201 H 7.4433997 A 1.1132008,1.1132008 0 0 1 6.3301989,11.339602 V 9.6698012 H 4.6603978 A 1.1132008,1.1132008 0 0 1 3.547197,8.5566004 Z M 4.6603978,4.1037974 A 0.55660038,0.55660038 0 0 0 4.1037974,4.6603978 V 8.5566004 A 0.55660038,0.55660038 0 0 0 4.6603978,9.1132008 H 8.5566004 A 0.55660038,0.55660038 0 0 0 9.1132008,8.5566004 V 4.6603978 A 0.55660038,0.55660038 0 0 0 8.5566004,4.1037974 Z m 3.9730135,5.5632208 c 0.1074238,0.1675367 0.2237533,0.324498 0.3506582,0.4708838 -0.4163371,0.320045 -0.9311924,0.557157 -1.5406698,0.719128 0.099075,0.120782 0.2510267,0.353441 0.3089132,0.482572 0.6261754,-0.199819 1.1577288,-0.46977 1.6063487,-0.831561 0.4324785,0.37014 0.9679284,0.64844 1.6308394,0.819316 0.07403,-0.141376 0.230432,-0.374592 0.350101,-0.495374 C 10.713427,10.691163 10.194675,10.445702 9.7699892,10.117308 10.149034,9.7015274 10.450155,9.1983607 10.672238,8.5827606 h 0.667364 V 8 H 9.6698012 V 8.5827606 H 10.0956 C 9.9186015,9.0525314 9.6837162,9.4432648 9.3876048,9.7683194 A 3.3763379,3.3763379 0 0 1 9.1566156,9.4944721 1.1065216,1.1065216 0 0 1 8.6334113,9.6670182 Z"
+     id="path183"
+     style="stroke-width:0.999999" />
+  <text
+     xml:space="preserve"
+     style="font-size:2.66666667px;line-height:1.25;font-family:'Inner Mounting Flame';-inkscape-font-specification:'Inner Mounting Flame'"
+     x="6.5989394"
+     y="6.8064394"
+     id="text499"><tspan
+       sodipodi:role="line"
+       id="tspan497"></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:2.8px;line-height:1.25;font-family:'Inner Mounting Flame';-inkscape-font-specification:'Inner Mounting Flame'"
+     x="6.5856061"
+     y="7.9487877"
+     id="text553"><tspan
+       sodipodi:role="line"
+       id="tspan551"></tspan></text>
+</svg>

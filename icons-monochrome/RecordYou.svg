@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg1010"
+   sodipodi:docname="RecordYou.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1012"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5058594"
+     inkscape:cx="256"
+     inkscape:cy="256.33204"
+     inkscape:window-width="2536"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1010" />
+  <mask
+     id="mask0_2_28"
+     style="mask-type:alpha"
+     maskUnits="userSpaceOnUse"
+     x="51"
+     y="51"
+     width="410"
+     height="410">
+    <rect
+       x="51.2001"
+       y="51.2"
+       width="409.6"
+       height="409.6"
+       fill="url(#paint0_linear_2_28)"
+       id="rect991" />
+  </mask>
+  <g
+     mask="url(#mask0_2_28)"
+     id="g996">
+    <path
+       d="M256 307.2C241.778 307.2 229.689 302.222 219.733 292.267C209.778 282.311 204.8 270.222 204.8 256V136.533C204.8 122.311 209.778 110.222 219.733 100.267C229.689 90.3111 241.778 85.3333 256 85.3333C270.222 85.3333 282.311 90.3111 292.267 100.267C302.222 110.222 307.2 122.311 307.2 136.533V256C307.2 270.222 302.222 282.311 292.267 292.267C282.311 302.222 270.222 307.2 256 307.2ZM238.933 426.667V374.187C209.351 370.204 184.889 356.978 165.547 334.507C146.205 312.036 136.533 285.867 136.533 256H170.667C170.667 279.609 178.987 299.733 195.627 316.373C212.267 333.013 232.391 341.333 256 341.333C279.609 341.333 299.733 333.013 316.373 316.373C333.013 299.733 341.333 279.609 341.333 256H375.467C375.467 285.867 365.796 312.036 346.453 334.507C327.111 356.978 302.649 370.204 273.067 374.187V426.667H238.933ZM256 273.067C260.836 273.067 264.889 271.431 268.16 268.16C271.431 264.889 273.067 260.836 273.067 256V136.533C273.067 131.698 271.431 127.644 268.16 124.373C264.889 121.102 260.836 119.467 256 119.467C251.165 119.467 247.111 121.102 243.84 124.373C240.569 127.644 238.933 131.698 238.933 136.533V256C238.933 260.836 240.569 264.889 243.84 268.16C247.111 271.431 251.165 273.067 256 273.067Z"
+       fill="url(#paint1_linear_2_28)"
+       id="path994" />
+  </g>
+  <defs
+     id="defs1008">
+    <linearGradient
+       id="paint0_linear_2_28"
+       x1="51.2001"
+       y1="51.2"
+       x2="460.8"
+       y2="460.8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#8839EF"
+         id="stop998" />
+      <stop
+         offset="1"
+         stop-color="#7287FD"
+         id="stop1000" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_2_28"
+       x1="136.533"
+       y1="85.3333"
+       x2="375.467"
+       y2="426.667"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7287FD"
+         id="stop1003" />
+      <stop
+         offset="1"
+         stop-color="#8839EF"
+         id="stop1005" />
+    </linearGradient>
+  </defs>
+</svg>

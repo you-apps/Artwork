@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg392"
+   sodipodi:docname="TranslateYou.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview394"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5058594"
+     inkscape:cx="256"
+     inkscape:cy="256.33204"
+     inkscape:window-width="2536"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg392" />
+  <path
+     d="M256 392.533L306.347 247.467H342.187L392.533 392.533H358.4L349.867 366.08H298.667L290.133 392.533H256ZM308.053 335.36H340.48L324.267 286.72L308.053 335.36ZM170.667 341.333L146.772 317.44L197.973 265.387C176.64 242.517 162.133 220.16 151.893 187.733H187.733C196.267 213.333 209.067 227.84 221.867 241.493C234.667 227.84 247.467 213.399 256 187.733H187.733H119.467L119.467 153.6H204.8V119.467H238.933V153.6H324.267V187.733H291.839C281.6 220.16 267.058 242.531 245.76 266.24L257.735 278.465L245.407 314.06L221.866 290.133L170.667 341.333Z"
+     fill="url(#paint0_linear_7_18)"
+     id="path383" />
+  <defs
+     id="defs390">
+    <linearGradient
+       id="paint0_linear_7_18"
+       x1="119"
+       y1="119"
+       x2="393"
+       y2="393"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7287FD"
+         id="stop385" />
+      <stop
+         offset="1"
+         stop-color="#8839EF"
+         id="stop387" />
+    </linearGradient>
+  </defs>
+</svg>

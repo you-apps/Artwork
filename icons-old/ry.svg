@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 96 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="rec.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient872">
+      <stop
+         style="stop-color:#cba6f7;stop-opacity:1;"
+         offset="0"
+         id="stop868" />
+      <stop
+         style="stop-color:#f2cdcd;stop-opacity:1;"
+         offset="1"
+         id="stop870" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient872"
+       id="linearGradient874"
+       x1="165.15771"
+       y1="576"
+       x2="794.84229"
+       y2="576"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76555717,0,0,0.76555717,112.53256,135.03907)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#1e1e2e"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.4583333"
+     inkscape:cx="45.53271"
+     inkscape:cy="20.074766"
+     inkscape:window-width="1266"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 349.44221,736.68652 V 415.31348 h 40.17163 V 736.68652 Z M 459.91419,843.81086 V 308.18914 h 40.17162 V 843.81086 Z M 238.97023,629.56217 V 522.43783 h 40.17163 V 629.56217 Z M 570.38616,736.68652 V 415.31348 h 40.17163 V 736.68652 Z M 680.85814,629.56217 V 522.43783 h 40.17163 v 107.12434 z"
+     id="path2"
+     style="fill:url(#linearGradient874);fill-opacity:1;stroke-width:0.669527" />
+</svg>
