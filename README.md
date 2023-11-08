@@ -22,6 +22,7 @@
 │   │   ├── ConnectYou.svg
 │   │   ├── RecordYou.svg
 │   │   ├── TranslateYou.svg
+|   |   ├── VibeYou.svg
 │   │   ├── WallYou.svg
 │   │   └── YouApps.svg
 │   └── old
@@ -35,6 +36,20 @@
 │       ├── tylight.svg
 │       └── wallyou.svg
 └── ui-icons
+    ├── CalcYou
+    │   └── calculator-symbols
+    │       ├── Bracket.svg
+    │       ├── Divide.svg
+    │       ├── Equal.svg
+    │       ├── Minus.svg
+    │       ├── Multiply.svg
+    │       ├── Percent.svg
+    │       └── Plus.svg
+    ├── ClockYou
+    |   ├── optimized
+    |   |   └── ic_alarm.svg
+    |   └── source
+    |       └── ic_alarm.svg
     └── RecordYou
         ├── animated-vector
         │   └── ic_trimmer.xml
