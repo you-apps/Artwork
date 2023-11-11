@@ -12,12 +12,15 @@
 ├── README.md
 ├── app-icons
 │   ├── monochrome
+│   │   ├── CalcYou.svg
 │   │   ├── ClockYou.svg
 │   │   ├── ConnectYou.svg
 │   │   ├── RecordYou.svg
 │   │   ├── TranslateYou.svg
+│   │   ├── VibeYou.svg
 │   │   └── WallYou.svg
 │   ├── new
+│   │   ├── CalcYou.svg
 │   │   ├── ClockYou.svg
 │   │   ├── ConnectYou.svg
 │   │   ├── RecordYou.svg
