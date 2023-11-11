@@ -22,7 +22,7 @@
 │   │   ├── ConnectYou.svg
 │   │   ├── RecordYou.svg
 │   │   ├── TranslateYou.svg
-|   |   ├── VibeYou.svg
+│   │   ├── VibeYou.svg
 │   │   ├── WallYou.svg
 │   │   └── YouApps.svg
 │   └── old
@@ -46,10 +46,10 @@
     │       ├── Percent.svg
     │       └── Plus.svg
     ├── ClockYou
-    |   ├── optimized
-    |   |   └── ic_alarm.svg
-    |   └── source
-    |       └── ic_alarm.svg
+    │   ├── optimized
+    │   │   └── ic_alarm.svg
+    │   └── source
+    │       └── ic_alarm.svg
     └── RecordYou
         ├── animated-vector
         │   └── ic_trimmer.xml
